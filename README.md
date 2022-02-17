@@ -6,7 +6,8 @@ This is a simple file.
 Adding more ....
 
 ## Purpose
-CHANGE Again, add a line for rebasing
+CHANGE Again, add a line for rebasing, then 
+more changes from myfeature
 
 ## Deployment
 Change
