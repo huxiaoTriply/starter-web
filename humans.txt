@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	Xiao developer 
+	Xiao developer @huxiao
 # THANKS
 
     <name>
+    Thanks 
 
 # TECHNOLOGY COLOPHON
 
